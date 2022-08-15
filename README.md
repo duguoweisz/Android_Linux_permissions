@@ -2,7 +2,7 @@
 android &amp; linux permission series
 
 Author: duguowei  
-Date: 2022-8-15  
+Date: 2022-5-11  
 Email: duguoweisz@gmail.com  
 Phone: 13417431640  
 WeChat: dgw_cn  
