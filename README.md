@@ -12,9 +12,9 @@ Android: 12
 Android 以及 Linux的权限系列，培训内容100页+：  
 
 Linux权限模型：  
-１． DAC：Discretionary Access Control  
+1. DAC：Discretionary Access Control  
 --UGO-based  
-２． MAC：Mandatory Access Control  
+2. MAC：Mandatory Access Control  
 --SELinux-based  
 
 Android的权限模型：  
